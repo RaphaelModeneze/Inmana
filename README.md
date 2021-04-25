@@ -6,7 +6,6 @@
 <img  alt="inmana-logo" src="./git-docs/inmana-logo.png">
 </p>
 <h4 align="center">NextLevelWeek 5.0 🚀</h4>
-<h4 align="center">Application made during a NLW, made with love by @Rocketseat 💜</h4>
 
 
 To start your Phoenix server:
